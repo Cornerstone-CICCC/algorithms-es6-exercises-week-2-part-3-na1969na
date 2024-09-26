@@ -5,6 +5,6 @@
 
 const numbers = [1, 2, 3];
 
-// Your code here
+let newNumbers = [...numbers, 4, 5, 6];
 
 console.log(newNumbers);
